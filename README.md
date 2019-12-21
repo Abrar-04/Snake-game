@@ -13,5 +13,6 @@ Rules of the game:
 
 
 This game is entirely made of basic shapes using turtle module.
-
+---------------------------------------------------------------------
 https://docs.python.org/3/library/turtle.html
+---------------------------------------------------------------------
