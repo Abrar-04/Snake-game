@@ -4,8 +4,11 @@ Snake is the common name for a video game concept where the player maneuvers a l
 Rules of the game:
 -------------------
 1.Consume the sprites.
+
 2.Avoid the boundaries.
+
 3.Avoid the body.
+
 4.Have fun.
 
 
