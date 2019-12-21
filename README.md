@@ -10,3 +10,6 @@ Rules of the game:
 3.Avoid the body.
 
 4.Have fun.
+
+
+This game is entirely made of basic shapes using turtle package.
